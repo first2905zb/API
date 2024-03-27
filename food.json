@@ -3,7 +3,7 @@
         {
             "storeName": "ร้านสวัสดีมีกะตัง",
             "type": "thai",
-            "details": [
+            "storeDetails": [
                 {
                     "id": 1,
                     "name": "ผัดไทยกุ้งสด",
@@ -49,7 +49,7 @@
         {
             "storeName": "ร้านฮัลโหลเวิลด์",
             "type": "western",
-            "result": [
+            "storeDetails": [
                 {
                     "id": 1,
                     "name": "โครเกต์",
@@ -95,7 +95,7 @@
         {
             "storeName": "ร้านคุณตาลหวานเจี๊ยบ",
             "type": "dessert",
-            "result": [
+            "storeDetails": [
                 {
                     "id": 1,
                     "name": "กาแฟเย็น",
@@ -139,7 +139,7 @@
         {
             "storeName": "ร้านอาตี๋หนีห่าว",
             "type": "china",
-            "result": [
+            "storeDetails": [
                 {
                     "id": 1,
                     "name": "หมูทอดเปี้ยวหวาน",
@@ -185,7 +185,7 @@
         {
             "storeName": "ร้านนิฮงโกะโอฮาโย",
             "type": "japan",
-            "result": [
+            "storeDetails": [
                 {
                     "id": 1,
                     "name": "ข้าวแกงกะหรี่",
@@ -231,7 +231,7 @@
         {
             "storeName": "ร้านคิมหันอันยอง",
             "type": "korea",
-            "result": [
+            "storeDetails": [
                 {
                     "id": 1,
                     "name": "กิมจิ",
