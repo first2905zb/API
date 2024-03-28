@@ -252,57 +252,6 @@
                     "details": "บะหมี่กึ่งสำเร็จรูป ให้บรรยากาศซีรีส์เกาหลี"
                 }
             ]
-        },
-        {
-            "storeName": "ร้านสวัสดีมีกะตัง",
-            "type": "thai",
-            "bgimage": "https://lh3.googleusercontent.com/proxy/c0aBiyFbHoHgaA3J32U9T0NVisP9rYnBokIL5PygzSanpbW75a0l2chd4GwuDL-AGHInV91Yn1FSVqi75QGwZI00bYN5NblzqK2bYuUHgJDFgzHCKZWuXx0ET0ijzKjrl-myZZBD",
-            "storeDetails": [
-                {
-                    "id": 1,
-                    "name": "ผัดไทยกุ้งสด",
-                    "image": "https://img.wongnai.com/p/1968x0/2019/05/04/15a588ebc226426f8ae18e2a6bc955f8.jpg",
-                    "price": "120",
-                    "addon": [
-                        "เพิ่มไข่",
-                        "เพิ่มกุ้ง"
-                    ],
-                    "details": "อาหารเส้นรสเผ็ดหวาน เต็มไปด้วยกุ้งสดและน้ำส้มสายชู"
-                },
-                {
-                    "id": 2,
-                    "name": "ข้าวผัดกะเพราไก่",
-                    "image": "https://lh3.googleusercontent.com/proxy/UYeRA0dPejI5DYsLmrYuDwKa2r0q3S0NhA2D3xUM42Qd7W2si78H2-sIJpyOPUFOA3yiB0xB-pOutxG28_g9y6SNAJACX1u1q4EtpGWKQFk",
-                    "price": "90",
-                    "addon": [
-                        "เพิ่มไข่ดาว",
-                        "เพิ่มเจียว"
-                    ],
-                    "details": " อาหารที่เข้มข้นและเผ็ดร้อน ด้วยกะเพราสด และเนื้อไก่"
-                },
-                {
-                    "id": 3,
-                    "name": "ต้มยำกุ้ง",
-                    "image": "https://icealano.files.wordpress.com/2016/02/3354.jpg",
-                    "price": "150",
-                    "addon": [
-                        "เพิ่มพริก",
-                        "เพิ่มกุ้ง"
-                    ],
-                    "details": "ต้มยำรสเปรี้ยวหวาน ด้วยกุ้งสด ตะไคร้ และเห็ด"
-                },
-                {
-                    "id": 4,
-                    "name": "ข้าวมันไก่",
-                    "image": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5naLwWtYtNesZaki91wtz8N9CQg7YZvxZMhzjwoOWiUn6p2zikv.jpg",
-                    "price": "80",
-                    "addon": [
-                        "เพิ่มไก่",
-                        "เพิ่มข้าวมัน"
-                    ],
-                    "details": "ข้าวมันหอมๆ นุ่มละมุน"
-                }
-            ]
         }
     ]
 }
