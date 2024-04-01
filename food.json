@@ -52,57 +52,6 @@
             ]
         },
         {
-            "storeName": "ร้านฮัลโหลเวิลด์1",
-            "type": "western",
-            "bgimage": "https://www.cooking.in.th/wp-content/uploads/2022/08/%E0%B8%97%E0%B8%B2%E0%B9%82%E0%B8%81%E0%B9%89-Taco-%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B9%83%E0%B8%88%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81.jpg",
-            "storeDetails": [
-                {
-                    "id": 1,
-                    "name": "โครเกต์1",
-                    "image": "https://media.lul.la/wp-content/uploads/2022/11/15172723/cheese-croquettes-featured-1-770x404.jpg.webp",
-                    "price": "801",
-                    "addon": [
-                        "ใส้แฮมชีส1",
-                        "ใส้ครีมปู1"
-                    ],
-                    "details": "อร่อยได้ง่ายๆ ไม่จำเจ กับมันฝรั่งบดทอดหลากหลายไส้1"
-                },
-                {
-                    "id": 2,
-                    "name": "มีทบอล1",
-                    "image": "https://www.pholfoodmafia.com/wp-content/uploads/2020/03/4-Crispy-Italian-Porkballs-with-Cheese-500x314.jpg",
-                    "price": "1001",
-                    "addon": [
-                        "เนื้อหมู",
-                        "เนื้อไก่"
-                    ],
-                    "details": "เสิร์ฟแบบค็อกเทลพอดีคำ อร่อยมากมายจนคาดไม่ถึง"
-                },
-                {
-                    "id": 3,
-                    "name": "ทาโก้",
-                    "image": "https://www.makro.co.th/imgadmins/img_detail_food/th/175116.jpg",
-                    "price": "120",
-                    "addon": [
-                        "เนื้อหมู",
-                        "เนื้อไก่"
-                    ],
-                    "details": "ผสมผสานกับซอสรสเผ็ดเพื่อเพิ่มความจัดจ้าน"
-                },
-                {
-                    "id": 4,
-                    "name": "ซุปเห็ด",
-                    "image": "https://media.istockphoto.com/id/466583781/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%94.jpg?s=612x612&w=0&k=20&c=sY2Wz5fGYNbeQidYjvo0nj5XkwaxuyWflpknyepy-hs=",
-                    "price": "90",
-                    "addon": [
-                        "เห็ดหอม",
-                        "เห็ดเข็มทอง"
-                    ],
-                    "details": "หอมครีมและเห็ด เข้มข้นแบบซุปตะวันตก"
-                }
-            ]
-        },
-        {
             "storeName": "ร้านคุณตาลหวานเจี๊ยบ",
             "type": "dessert",
             "bgimage": "https://www.imagelato.com/images/article-cover-best-selling-desserts-for-coffee-shops-f466c395-1024w.jpg",
