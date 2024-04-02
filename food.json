@@ -89,13 +89,10 @@
                 },
                 {
                     "id": 4,
-                    "name": "ซุปเห็ด",
+                    "name": "พายสตรอเบอร์รี่",
                     "price": "90",
-                    "image": "",
-                    "addon": [
-                        "เห็ดหอม",
-                        "เห็ดเข็มทอง"
-                    ],
+                    "image": "https://sharp-weeclub.com/wp-content/uploads/2022/02/%E0%B8%9E%E0%B8%B2%E0%B8%A25-990x510-1.jpg",
+                    "addon": "วิปครีม",
                     "details": "หอมครีมและเห็ด เข้มข้นแบบซุปตะวันตก"
                 }
             ]
@@ -256,7 +253,7 @@
         {
             "storeName": "ร้านสวัสดีมีกะตัง",
             "type": "thai",
-            "bgimage": "https://lh3.googleusercontent.com/proxy/c0aBiyFbHoHgaA3J32U9T0NVisP9rYnBokIL5PygzSanpbW75a0l2chd4GwuDL-AGHInV91Yn1FSVqi75QGwZI00bYN5NblzqK2bYuUHgJDFgzHCKZWuXx0ET0ijzKjrl-myZZBD",
+            "bgimage": "https://aroundbkk.com/wp-content/uploads/2022/12/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1.png",
             "storeDetails": [
                 {
                     "id": 1,
@@ -272,7 +269,7 @@
                 {
                     "id": 2,
                     "name": "ข้าวผัดกะเพราไก่",
-                    "image": "https://lh3.googleusercontent.com/proxy/UYeRA0dPejI5DYsLmrYuDwKa2r0q3S0NhA2D3xUM42Qd7W2si78H2-sIJpyOPUFOA3yiB0xB-pOutxG28_g9y6SNAJACX1u1q4EtpGWKQFk",
+                    "image": "https://s359.kapook.com/pagebuilder/7595f0f5-696a-4cfe-ad3a-9cd4dd3ccbf8.jpg",
                     "price": "90",
                     "addon": [
                         "เพิ่มไข่ดาว",
