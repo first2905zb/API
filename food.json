@@ -586,7 +586,7 @@
         },        
         {
             "storeName": "Dragon Palace",
-            "type": "chinese",
+            "type": "china",
             "bgimage": "https://img.wongnai.com/p/1920x0/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg",
             "storeDetails": [
                 {
@@ -661,7 +661,7 @@
         },        
         {
             "storeName": "Seoul Kitchen",
-            "type": "korean",
+            "type": "korea",
             "bgimage": "https://sethlui.com/wp-content/uploads/2019/01/seoul-kitchen-online-1-800x533.jpg",
             "storeDetails": [
                 {
